@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/andrewdant-ert/semantic-test/compare/v1.3.0...v1.4.0) (2020-09-28)
+
+
+### Features
+
+* added tablet ([24d6cf8](https://github.com/andrewdant-ert/semantic-test/commit/24d6cf8dac2be50bedc20c242350f9a7c71f965d))
+
 # [1.3.0](https://github.com/andrewdant-ert/semantic-test/compare/v1.2.0...v1.3.0) (2020-09-28)
 
 
