@@ -5,7 +5,6 @@
   "plugins": [
     "@semantic-release/commit-analyzer",
     "@semantic-release/release-notes-generator",
-    "@semantic-release/npm",
     [
       "@google/semantic-release-replace-plugin",
       {
