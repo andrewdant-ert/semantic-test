@@ -1,3 +1,10 @@
+## [1.5.1](https://github.com/andrewdant-ert/semantic-test/compare/v1.5.0...v1.5.1) (2020-09-28)
+
+
+### Bug Fixes
+
+* don't need npm plugin ([3291aa4](https://github.com/andrewdant-ert/semantic-test/commit/3291aa44c0015810092f6fe660f4cdd1e16df6c2))
+
 # [1.5.0](https://github.com/andrewdant-ert/semantic-test/compare/v1.4.0...v1.5.0) (2020-09-28)
 
 
