@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/andrewdant-ert/semantic-test/compare/v1.2.0...v1.3.0) (2020-09-28)
+
+
+### Features
+
+* corrected file path ([8d74850](https://github.com/andrewdant-ert/semantic-test/commit/8d74850b4459e413a164acb59126fce20992d27c))
+
 # [1.2.0](https://github.com/andrewdant-ert/semantic-test/compare/v1.1.0...v1.2.0) (2020-09-28)
 
 
