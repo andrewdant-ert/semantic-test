@@ -24,6 +24,20 @@
               }
             ],
             "countMatches": true
+          },
+          {
+            "files": ["tablet/versionTB.txt"],
+            "from": "\"TB_VERSION\": \".*\"",
+            "to": "\"TB_VERSION\": \"${nextRelease.version}\"",
+            "results": [
+              {
+                "file": "tablet/versionTB.txt",
+                "hasChanged": true,
+                "numMatches": 1,
+                "numReplacements": 1
+              }
+            ],
+            "countMatches": true
           }
         ]
       }
@@ -37,7 +51,7 @@
     [
       "@semantic-release/git",
       {
-        "assets": ["package.json", "package-lock.json", "CHANGELOG.md", "handheld/versionHH.txt"],
+        "assets": ["package.json", "package-lock.json", "CHANGELOG.md", "handheld/*", "tablet/*"],
         "message": "chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
       }
     ]
