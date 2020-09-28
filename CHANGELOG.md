@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/andrewdant-ert/semantic-test/compare/v1.1.0...v1.2.0) (2020-09-28)
+
+
+### Features
+
+* switched to versionHH.json ([9bab0ed](https://github.com/andrewdant-ert/semantic-test/commit/9bab0ed1cd27159f93621012b391411ceb4181f3))
+
 # [1.1.0](https://github.com/andrewdant-ert/semantic-test/compare/v1.0.0...v1.1.0) (2020-09-28)
 
 
