@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/andrewdant-ert/semantic-test/compare/v1.0.0...v1.1.0) (2020-09-28)
+
+
+### Features
+
+* blah ([0a247b8](https://github.com/andrewdant-ert/semantic-test/commit/0a247b827d31ee1f7f9b69d8895c022fb4b7dd9e))
+
 # 1.0.0 (2020-09-28)
 
 
