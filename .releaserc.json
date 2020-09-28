@@ -12,12 +12,12 @@
       {
         "replacements": [
           {
-            "files": ["handheld/versionHH.json"],
+            "files": ["handheld/versionHH.txt"],
             "from": "\"HH_VERSION\": \".*\"",
             "to": "\"HH_VERSION\": \"${nextRelease.version}\"",
             "results": [
               {
-                "file": "handheld/versionHH.json",
+                "file": "handheld/versionHH.txt",
                 "hasChanged": true,
                 "numMatches": 1,
                 "numReplacements": 1
