@@ -3,7 +3,7 @@
   "repositoryUrl": "https://github.com/andrewdant-ert/semantic-test.git",
   "debug": "true",
   "plugins": [
-    "@semantic-release/commit-analyzer",
+    "@semantic-release/release-notes-generator",
     ["@semantic-release/commit-analyzer", {
       "preset": "angular",
       "releaseRules": [
