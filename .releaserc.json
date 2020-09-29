@@ -1,5 +1,5 @@
 {
-  "branches": "release/UI",
+  "branches": "release/*",
   "repositoryUrl": "https://github.com/andrewdant-ert/semantic-test.git",
   "debug": "true",
   "plugins": [
