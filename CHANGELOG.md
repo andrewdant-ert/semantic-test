@@ -1,3 +1,10 @@
+## [2.1.1](https://github.com/andrewdant-ert/semantic-test/compare/v2.1.0...v2.1.1) (2020-09-29)
+
+
+### Bug Fixes
+
+* replace removed release notes generator plugin ([d8e0573](https://github.com/andrewdant-ert/semantic-test/commit/d8e0573ac53245c9fec30f5eb41bfb9a9cf6e3b6))
+
 # [1.6.0](https://github.com/andrewdant-ert/semantic-test/compare/v1.5.1...v1.6.0) (2020-09-29)
 
 
