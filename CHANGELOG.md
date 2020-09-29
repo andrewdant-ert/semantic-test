@@ -1,3 +1,10 @@
+# [2.2.0](https://github.com/andrewdant-ert/semantic-test/compare/v2.1.4...v2.2.0) (2020-09-29)
+
+
+### Features
+
+* added demo text ([b92bbc3](https://github.com/andrewdant-ert/semantic-test/commit/b92bbc3dbf22c5d0bd04e2455022f31b505a7bf7))
+
 ## [2.1.4](https://github.com/andrewdant-ert/semantic-test/compare/v2.1.3...v2.1.4) (2020-09-29)
 
 
