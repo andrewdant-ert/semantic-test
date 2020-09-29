@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/andrewdant-ert/semantic-test/compare/v1.5.1...v1.6.0) (2020-09-29)
+
+
+### Features
+
+* added commitlint ([b8fe1f1](https://github.com/andrewdant-ert/semantic-test/commit/b8fe1f1d4c5c7de647e954236ad1f6986f9c2a59))
+
 ## [1.5.1](https://github.com/andrewdant-ert/semantic-test/compare/v1.5.0...v1.5.1) (2020-09-28)
 
 
