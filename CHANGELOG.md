@@ -1,3 +1,12 @@
+## [2.1.4](https://github.com/andrewdant-ert/semantic-test/compare/v2.1.3...v2.1.4) (2020-09-29)
+
+
+### Bug Fixes
+
+* aaaa ([d239713](https://github.com/andrewdant-ert/semantic-test/commit/d239713f84bf3e8630df2788c452db0e388a5a26))
+* bbbbb ([8c6fd51](https://github.com/andrewdant-ert/semantic-test/commit/8c6fd51b520b828137ddc4b0d233ef192c27e455))
+* sesesse ([27a351e](https://github.com/andrewdant-ert/semantic-test/commit/27a351e969479edb572f1af44230532ca8f77ad9))
+
 ## [2.1.3](https://github.com/andrewdant-ert/semantic-test/compare/v2.1.2...v2.1.3) (2020-09-29)
 
 
