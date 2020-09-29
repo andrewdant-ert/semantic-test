@@ -1,3 +1,10 @@
+## [2.1.3](https://github.com/andrewdant-ert/semantic-test/compare/v2.1.2...v2.1.3) (2020-09-29)
+
+
+### Bug Fixes
+
+* more nonsense ([5e1caf2](https://github.com/andrewdant-ert/semantic-test/commit/5e1caf2ac650c3a113cb20534846aa4c1fec979a))
+
 ## [2.1.2](https://github.com/andrewdant-ert/semantic-test/compare/v2.1.1...v2.1.2) (2020-09-29)
 
 ## [2.1.1](https://github.com/andrewdant-ert/semantic-test/compare/v2.1.0...v2.1.1) (2020-09-29)
