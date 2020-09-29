@@ -1,3 +1,16 @@
+# [2.3.0](https://github.com/andrewdant-ert/semantic-test/compare/v2.2.0...v2.3.0) (2020-09-29)
+
+
+### Bug Fixes
+
+* **ui:** updated job AND config to release/* ([02e3606](https://github.com/andrewdant-ert/semantic-test/commit/02e3606952457eea72b9e4c2f472a0b8d956344c))
+* specific release/UI branch ([e3fd417](https://github.com/andrewdant-ert/semantic-test/commit/e3fd417639eb030e334f0c504a9b769f306d0694))
+
+
+### Features
+
+* **ui:** switched version branch to release/* ([f618b76](https://github.com/andrewdant-ert/semantic-test/commit/f618b767b11ec0199578126fb4eb8378d3f4b779))
+
 # [2.2.0](https://github.com/andrewdant-ert/semantic-test/compare/v2.1.4...v2.2.0) (2020-09-29)
 
 
