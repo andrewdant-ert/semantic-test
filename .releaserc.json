@@ -55,6 +55,13 @@
         "changelogFile": "CHANGELOG.md"
       }
     ],
+
+    [
+      "@semantic-release/changelog",
+      {
+        "changelogFile": "CHANGELOG2.md"
+      }
+    ],
     [
       "@semantic-release/git",
       {
