@@ -1,3 +1,10 @@
+# [2.4.0](https://github.com/andrewdant-ert/semantic-test/compare/v2.3.0...v2.4.0) (2020-09-30)
+
+
+### Features
+
+* attempt at double changelog ([9926363](https://github.com/andrewdant-ert/semantic-test/commit/9926363314d0d6d4203a8b5f22ab6ae5c3425f4e))
+
 # [2.3.0](https://github.com/andrewdant-ert/semantic-test/compare/v2.2.0...v2.3.0) (2020-09-29)
 
 
