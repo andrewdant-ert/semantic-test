@@ -1,3 +1,22 @@
+# [3.0.0](https://github.com/andrewdant-ert/semantic-test/compare/v2.4.0...v3.0.0) (2020-10-08)
+
+
+### Bug Fixes
+
+* changed max footer line length ([f2428fb](https://github.com/andrewdant-ert/semantic-test/commit/f2428fb4b9d5397292c940694cbb9316542458dc))
+
+
+### Features
+
+* add stripping of comment lines from commit message ([ec094d0](https://github.com/andrewdant-ert/semantic-test/commit/ec094d0da7d7d2923f070ec09822da4678a2c596))
+
+
+### BREAKING CHANGES
+
+* new feature for stripping extra info from commit messages allow for more verobose commit templates.
+
+Also I'm adding a new line here to test really long lines. Like reeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaalllllllllllllllllllllllllyyyyyyyyyyyyyyy long lines. How long can I get? I don't know. Basically I wanna know if this looks like crap in the changelog. Long long long long Long long long long Long long long long Long long long long Long long long long Long long long long Long long long long Long long long long lines my dude.
+
 # [2.4.0](https://github.com/andrewdant-ert/semantic-test/compare/v2.3.0...v2.4.0) (2020-09-30)
 
 

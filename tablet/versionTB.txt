@@ -1,1 +1,1 @@
-"TB_VERSION": "2.4.0"
+"TB_VERSION": "3.0.0"
