@@ -1,3 +1,10 @@
+## [3.0.1](https://github.com/andrewdant-ert/semantic-test/compare/v3.0.0...v3.0.1) (2020-10-08)
+
+
+### Bug Fixes
+
+* removed unneeded extra restrictions ([7c310f4](https://github.com/andrewdant-ert/semantic-test/commit/7c310f4732612e5cfebdb0c09248e3a9821bfaba))
+
 # [3.0.0](https://github.com/andrewdant-ert/semantic-test/compare/v2.4.0...v3.0.0) (2020-10-08)
 
 
