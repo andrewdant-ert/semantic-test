@@ -1,3 +1,10 @@
+# [3.2.0](https://github.com/andrewdant-ert/semantic-test/compare/v3.1.0...v3.2.0) (2020-10-09)
+
+
+### Features
+
+* line ([bd70cda](https://github.com/andrewdant-ert/semantic-test/commit/bd70cdacf6519c278e6e399d50f1808ec46cf8c2))
+
 # [3.1.0](https://github.com/andrewdant-ert/semantic-test/compare/v3.0.2...v3.1.0) (2020-10-09)
 
 
