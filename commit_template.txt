@@ -1,0 +1,10 @@
+
+# type(optional-scope): summary
+# TYPES: feat, fix, refactor, revert, docs, test
+# lines starting with # are ignored by git
+# https://sites.google.com/a/ert.com/syndication-pde-wiki/getting-started/study-process---git/git-commit-format
+# ENTER DESCRIPTION BELOW THIS LINE
+
+
+# Start footer with 'BREAKING CHANGES:' to up major version
+# ENTER FOOTER BELOW THIS LINE
