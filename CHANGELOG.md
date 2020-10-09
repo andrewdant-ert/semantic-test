@@ -1,3 +1,16 @@
+# [3.1.0](https://github.com/andrewdant-ert/semantic-test/compare/v3.0.2...v3.1.0) (2020-10-09)
+
+
+### Bug Fixes
+
+* removed extra changelog ([df152aa](https://github.com/andrewdant-ert/semantic-test/commit/df152aa24cab1305e4676290ea1adab1a7750bba))
+* removed extra types ([68c86a1](https://github.com/andrewdant-ert/semantic-test/commit/68c86a1efd68dba17b1ba26f3ff351ce8b59c305))
+
+
+### Features
+
+* added commit template and config hook ([3781b56](https://github.com/andrewdant-ert/semantic-test/commit/3781b56e89f6511b366f539ea4b64f0f44e7989f))
+
 ## [3.0.2](https://github.com/andrewdant-ert/semantic-test/compare/v3.0.1...v3.0.2) (2020-10-09)
 
 ## [3.0.1](https://github.com/andrewdant-ert/semantic-test/compare/v3.0.0...v3.0.1) (2020-10-08)
