@@ -8,11 +8,9 @@ module.exports = {
 			2,
 			'always',
 			[
-				'chore',
 				'docs',
 				'feat',
 				'fix',
-				'perf',
 				'refactor',
 				'revert',
 				'test',
