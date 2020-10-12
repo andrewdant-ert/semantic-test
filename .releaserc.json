@@ -20,20 +20,6 @@
       {
         "replacements": [
           {
-            "files": ["handheld/versionHH.txt"],
-            "from": "\"HH_VERSION\": \".*\"",
-            "to": "\"HH_VERSION\": \"${nextRelease.version}\"",
-            "results": [
-              {
-                "file": "handheld/versionHH.txt",
-                "hasChanged": true,
-                "numMatches": 1,
-                "numReplacements": 1
-              }
-            ],
-            "countMatches": true
-          },
-          {
             "files": ["tablet/versionTB.txt"],
             "from": "\"TB_VERSION\": \".*\"",
             "to": "\"TB_VERSION\": \"${nextRelease.version}\"",
