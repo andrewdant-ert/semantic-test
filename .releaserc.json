@@ -2,7 +2,7 @@
   "branches": "release/*",
   "repositoryUrl": "https://github.com/andrewdant-ert/semantic-test.git",
   "debug": "true",
-  "tagFormat": "hh ${version}",
+  "tagFormat": "hh-v${version}",
   "plugins": [
     "@semantic-release/release-notes-generator",
     ["@semantic-release/commit-analyzer", {
