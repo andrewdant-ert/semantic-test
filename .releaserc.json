@@ -1,6 +1,5 @@
 {
   "branches": "release/*",
-  "repositoryUrl": "https://github.com/andrewdant-ert/semantic-test.git",
   "debug": "true",
   "tagFormat": "tb-v${version}",
   "plugins": [
