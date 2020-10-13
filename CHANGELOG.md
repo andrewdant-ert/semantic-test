@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/andrewdant-ert/semantic-test/compare/tb-v1.0.0...tb-v1.0.1) (2020-10-13)
+
+
+### Bug Fixes
+
+* stop removing commit 'comments' since git already does it ([2c59674](https://github.com/andrewdant-ert/semantic-test/commit/2c5967448b3b0db0da10256c82395cd64d9f9433))
+
 # 1.0.0 (2020-10-12)
 
 
