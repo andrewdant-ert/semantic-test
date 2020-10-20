@@ -21,7 +21,7 @@
           {
             "files": ["tablet/versionTB.txt"],
             "from": "\"TB_VERSION\": \".*\"",
-            "to": "\"TB_VERSION\": \"${nextRelease.major}\"",
+            "to": "\"TB_VERSION\": \"${nextRelease.version.major}\"",
             "results": [
               {
                 "file": "tablet/versionTB.txt",
