@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/andrewdant-ert/semantic-test/compare/tb-v1.1.0...tb-v1.2.0) (2020-10-20)
+
+
+### Features
+
+* deeper check of release info ([7cc4c54](https://github.com/andrewdant-ert/semantic-test/commit/7cc4c54737603f97245782722bf4dc2b30898618))
+
 # [1.1.0](https://github.com/andrewdant-ert/semantic-test/compare/tb-v1.0.1...tb-v1.1.0) (2020-10-20)
 
 

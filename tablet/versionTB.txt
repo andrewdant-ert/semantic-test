@@ -1,1 +1,1 @@
-"TB_VERSION": "[object Object]"
+"TB_VERSION": ""
