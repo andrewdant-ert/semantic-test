@@ -1,3 +1,17 @@
+# [1.1.0](https://github.com/andrewdant-ert/semantic-test/compare/tb-v1.0.1...tb-v1.1.0) (2020-10-20)
+
+
+### Bug Fixes
+
+* changed target changelog config to be tablet specific ([8b85dd5](https://github.com/andrewdant-ert/semantic-test/commit/8b85dd55d1b631930e630aaf45e5eb5f6f52fd8d))
+* removed unneeded repoUrl ([719501d](https://github.com/andrewdant-ert/semantic-test/commit/719501d3c9be375c4eaa1f608c11e22e2f09bdaf))
+
+
+### Features
+
+* checking release info ([de703fd](https://github.com/andrewdant-ert/semantic-test/commit/de703fd5bafc66c86576029822d9def7be88173b))
+* renamed changelog to be tablet specific ([fb581a7](https://github.com/andrewdant-ert/semantic-test/commit/fb581a797caaa26771bce06a12fd805c6327b41e))
+
 ## [1.0.1](https://github.com/andrewdant-ert/semantic-test/compare/tb-v1.0.0...tb-v1.0.1) (2020-10-13)
 
 
