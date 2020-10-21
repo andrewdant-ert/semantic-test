@@ -1,3 +1,13 @@
+# [1.4.0](https://github.com/andrewdant-ert/semantic-test/compare/tb-v1.3.0...tb-v1.4.0) (2020-10-21)
+
+
+### Features
+
+* ref test ([901a626](https://github.com/andrewdant-ert/semantic-test/commit/901a6266aebde9104581c8505b187f55363ff979))
+* ref test ([684f62f](https://github.com/andrewdant-ert/semantic-test/commit/684f62f863b1c8bb8e3937ada20c76c243f5da36))
+* refs test ([91c6a57](https://github.com/andrewdant-ert/semantic-test/commit/91c6a576664aa923a11fbd88eb5d4e1dae85ac24))
+* refs test ([ea5e77e](https://github.com/andrewdant-ert/semantic-test/commit/ea5e77e176e3e36ea4fc686829f0de707ddbee59))
+
 # [1.3.0](https://github.com/andrewdant-ert/semantic-test/compare/tb-v1.2.0...tb-v1.3.0) (2020-10-21)
 
 
