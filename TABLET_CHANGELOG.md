@@ -1,3 +1,17 @@
+# [1.3.0](https://github.com/andrewdant-ert/semantic-test/compare/tb-v1.2.0...tb-v1.3.0) (2020-10-21)
+
+
+### Bug Fixes
+
+* reverted extra info attempts ([945cb5d](https://github.com/andrewdant-ert/semantic-test/commit/945cb5dbd27d46a6ffd239741258586907eec4e7)), closes [#1](https://github.com/andrewdant-ert/semantic-test/issues/1)
+
+
+### Features
+
+* majorVersion ([41550ec](https://github.com/andrewdant-ert/semantic-test/commit/41550ec1d36429a06daa5210da5375397419f1ed))
+* trying .major ([c0ce5d0](https://github.com/andrewdant-ert/semantic-test/commit/c0ce5d09c025a7f8cea24727ed84e933a301a296))
+* version.major ([7b31040](https://github.com/andrewdant-ert/semantic-test/commit/7b310402ebe5184bf98e28767546dcb0558409da))
+
 # [1.2.0](https://github.com/andrewdant-ert/semantic-test/compare/tb-v1.1.0...tb-v1.2.0) (2020-10-20)
 
 
