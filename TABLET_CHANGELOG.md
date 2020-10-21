@@ -1,3 +1,11 @@
+# [1.5.0](https://github.com/andrewdant-ert/semantic-test/compare/tb-v1.4.0...tb-v1.5.0) (2020-10-21)
+
+
+### Features
+
+* ref # test ([557ddcd](https://github.com/andrewdant-ert/semantic-test/commit/557ddcd40877c7ef40ec0f20b841ad547fa04375)), closes [#ONEECOA-247252](https://github.com/andrewdant-ert/semantic-test/issues/ONEECOA-247252)
+* ref test ([34fcdb1](https://github.com/andrewdant-ert/semantic-test/commit/34fcdb14f754291e724c1ca4d54aed74fee95553))
+
 # [1.4.0](https://github.com/andrewdant-ert/semantic-test/compare/tb-v1.3.0...tb-v1.4.0) (2020-10-21)
 
 
